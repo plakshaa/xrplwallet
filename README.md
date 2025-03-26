@@ -23,10 +23,6 @@ TrustPay utilizes XRPL’s decentralized ledger to facilitate instant global tra
 XRPL Hooks:
 TrustPay implements XRPL Hooks (smart contracts) to automate transaction validation, execution, and settlement, ensuring secure, transparent, and tamper-proof payments.
 
-✅ Smart Contract Automation (Hooks)
-XRPL Hooks:
-TrustPay implements XRPL Hooks (smart contracts) to automate transaction validation, execution, and settlement, ensuring secure, transparent, and tamper-proof payments.
-
 ✅ Asset Tokenization & Management
 Tokenized Assets:
 TrustPay leverages XRPL’s tokenization capabilities to securely manage digital assets, providing users with full control and transparency.
