@@ -11,6 +11,34 @@ TrustPay is a secure, blockchain-powered cryptocurrency payment platform designe
 - Real-time transaction tracking
 - Dashboard with financial overview
 
+How TrustPay Uses XRP Ledger (XRPL)
+
+TrustPay integrates the XRP Ledger (XRPL) to provide the following core functionalities:
+
+✅ Instant Cross-Border Payments
+XRPL Ledger Integration:
+TrustPay utilizes XRPL’s decentralized ledger to facilitate instant global transactions, significantly reducing transaction times from days to seconds.
+
+✅ Smart Contract Automation (Hooks)
+XRPL Hooks:
+TrustPay implements XRPL Hooks (smart contracts) to automate transaction validation, execution, and settlement, ensuring secure, transparent, and tamper-proof payments.
+
+✅ Smart Contract Automation (Hooks)
+XRPL Hooks:
+TrustPay implements XRPL Hooks (smart contracts) to automate transaction validation, execution, and settlement, ensuring secure, transparent, and tamper-proof payments.
+
+✅ Asset Tokenization & Management
+Tokenized Assets:
+TrustPay leverages XRPL’s tokenization capabilities to securely manage digital assets, providing users with full control and transparency.
+
+✅ Enhanced Security & Scalability
+Consensus Protocol:
+XRPL’s robust consensus mechanism ensures high security, decentralization, and scalability, enabling TrustPay to efficiently handle large transaction volumes.
+
+✅ Wallet Integration
+XRPL-Compatible Wallets:
+TrustPay seamlessly integrates XRPL-compatible wallets (e.g., XUMM, XRPL Snap for MetaMask), providing users with secure and intuitive wallet management.
+
 ## Tech Stack
 
 ### Frontend
