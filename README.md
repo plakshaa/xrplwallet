@@ -158,9 +158,6 @@ TrustPay seamlessly integrates XRPL-compatible wallets (e.g., XUMM, XRPL Snap fo
 - `GET /api/transactions/:id` - Get transaction details
 - `PATCH /api/transactions/:id` - Update transaction status
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
